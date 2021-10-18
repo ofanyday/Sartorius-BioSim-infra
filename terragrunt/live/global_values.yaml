@@ -1,0 +1,4 @@
+---
+aws_account_id: 161285725140
+prefix: pio-teks-tg
+tf_state_bucket_region: eu-west-1
